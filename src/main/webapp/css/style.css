@@ -1,4 +1,4 @@
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+/*<meta http-equiv="Content-Type" content="text/html; charset=gb2312">*/
 <!--
 body {
 	FONT-SIZE: 9pt;
@@ -50,7 +50,7 @@ a {
 	font-size: 9pt;
 	color: #333333;
 	border: 1px solid #999999;
-	width:110;
+	width:110px;
 }
 input {
 	font-family: "宋体";
@@ -109,7 +109,7 @@ border-style:none;
 	border-Top-style:none; 
 }
 .menuitems1{
-	margin:2px;padding:1px;word-break:keep-all;background-image:url("images/item_out.gif");
+	margin:2px;padding:1px;word-break:keep-all;background-color: white;
 }
 div.quote{margin:5px 20px;border:1px solid #8492b9;padding:5px;background:#8492b9 ;line-height : normal ;
 }
@@ -120,8 +120,8 @@ font-size:12px;font-family:Tahoma;font-style : oblique;line-height : normal ;fon
 	BORDER: #B0690B 1px solid; VISIBILITY: hidden;
 	POSITION: absolute; 
 	/*BACKGROUND-COLOR:#EFEFEF;*/
-	background-image:url("../images/item_out.gif");
+	background-color: white;
 	background-repeat : repeat-y;
-    Filter: Alpha(Opacity=85);
+    //Filter: Alpha(Opacity=85);
 	}
 -->

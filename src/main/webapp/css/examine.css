@@ -14,7 +14,7 @@ table tr{
 }
 
 table tr:hover{
-	background-color: #F0F0F0;
+	background-color: white;
 }
 
 table td{
